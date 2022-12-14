@@ -24,3 +24,6 @@ Koszt licencji będzie wzrastał po kolejnych aktualizacjach wnoszących poprawk
 Ta oferta jest dostępna tylko dla pierwszych 100 klientów, którzy skorzystają z oferty do końca stycznia 2023, po tym czasie oferta lifetime nie będzie już nigdy dostępna, pozostanie jedynie licencja z opłatą miesięczną w cenie 90EUR/msc, dlatego warto skorzystać z możliwości rezerwacji licencji już dziś.
 
 Zapraszam do kontaktu.
+
+
+[Tom Sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
