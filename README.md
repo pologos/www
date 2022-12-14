@@ -1,5 +1,4 @@
-# www
-www.pologos.com
+# www.pologos.com
 
 
 DIALOGWARE to tylko część całego ekosystemu #text2software
