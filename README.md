@@ -68,13 +68,18 @@ Klient potrzebuje zautomatyzować procesy na produkcji, potrzebna jest interfejs
 #### 2. Wdrożenie
 
 System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitorem, mikrofonem i głośnikiem.
-Uruchamiamy z kartą SD z pobranym od nas systemem
-Po kilku sekundach mamy dostęp do konsoli, logujemy się jako administrator
-Wpisujemy w konsoli zadania jakie mają  być realizowane, jakie dane mają być pobierane i skąd, w jaki sposób mają być przetwarzane.
-Jaki interfejs chcemy używać do wybranych interakcji
-Do definiowania oprogramowania można wykorzystać tryb chatu lub dokumentacji (SRS)
-W trybie chatu AI odpytuje o istotne detale, przed uruchomieniem oprogramowania.
-W trybie dokumentacji najpierw dostarzamy dokument, AI go analizuje rtłumaczy na tekst uruchamia i pyta czy aplikacja spełnia oczekiwania.
++ Uruchamiamy z kartą SD z pobranym od nas systemem
++ Po kilku sekundach mamy dostęp do konsoli, logujemy się jako administrator
++ Wpisujemy w konsoli zadania jakie mają być realizowane
++ Należy napisać jakie dane mają być pobierane i skąd oraz w jaki sposób mają być przetwarzane.
++ Jaki interfejs chcemy używać do wybranych interakcji
+
+Do definiowania oprogramowania można wykorzystać tryb chatu lub dokumentacji (SRS):
+
+1. W trybie chatu AI odpytuje o istotne detale, przed uruchomieniem oprogramowania.
+
+2. W trybie dokumentacji najpierw dostarczamy dokument, AI go przetwarza, uruchamia i pyta czy aplikacja spełnia oczekiwania.
+
 W każdym trybie jest możliwa wielokrtona iteracja z testowaniem rezultatu w całości lub w części, np sam interfejs użytkownika.
 Możliwe sa też tryby autodiagnostyki, gdzie wszystkie zewnętrzne API, urzadzenia są testowane.
 
