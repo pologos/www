@@ -2,7 +2,7 @@
 
 
 PologOS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby swoich Klientów. 
-System automatycznie **tworzy aplikacje w czasie rzeczywistym** za pomocą kilku zdań w języku naturalnym, bez wiedzy technicznej.
+System automatycznie **tworzy aplikacje w czasie rzeczywistym** za pomocą kilku zdań w języku naturalnym, bez potrzeby znajomości języków programowania.
 
 
 Rozwiązanie **PologOS** dedykujemy dla Software House-ów i developerów no-code:
@@ -42,6 +42,7 @@ Zapraszam do kontaktu.
 
 [Tom Sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
 
+Poszukuję entuzjastów zainteresowanych AUTOMATYZACJĄ od pojedynczych procesów po całą obsługę klienta. Oferuję platformę w przedsprzedaży, która tworzy aplikacje w czasie rzeczywistym za pomocą kilku zdań w języku naturalnym, bez potrzeby znajomości języków programowania.
 
 
 # Przykłady użycia
