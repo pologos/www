@@ -23,7 +23,7 @@ Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rze
 Oferta jest tak innowacyjna, że obecnie **żadna firma na świecie** nie oferuje podobnego narzędzia, więc **tylko Ty i Twoja organizacja** będziecie mieli dostęp do unikalnych korzyści i unikalnej przewagi konkurencyjnej:
 
 
-+ **Time to market** - Dostarczanie oprogramowania w czasie rzeczywistym, możliwe jest uruchamianie setek aplikacji dziennie
++ **Time to market** - Dostarczanie setek aplikacji dziennie w czasie rzeczywistym, 
 
 + **Time To Poc** - Tworzenie stron www, wizualnych interfejsów aplikacji, mikrousług **na podstawie krótkiego opisu**
 
