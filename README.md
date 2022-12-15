@@ -53,12 +53,13 @@ Przykłady użycia rozwiązania text-to-software opartego o PologOS.
 
 ### 1.1 Potrzeba
 
-zastąpienia osoby obsługującej dystrubujcę w fabryce na nocnej zmianie, umożliwiajac dostęp do fabryki z zewnątrz 24h dobę
+Ograniczenie kosztów nocnej zmiany w fabryce.
 
 
 ### 1.2 Rozwiązanie
 
-Automatyzacja procesów na produkcji, poprzez interfejs graficzny, tekstowy i głosowy z mikrofonem do wydawania komend, oraz głośnikiem do informowania kuriera przy odbieraniu zapakowanych produktów do klienta.
+Aby zmniejszyć koszty konieczne jest zastąpienie personelu obsługującej dystrubujcę w fabryce na nocnej zmianie, umożliwiajac dostęp do fabryki z zewnątrz 24h dobę opprzez zautomatyzowane procesy na produkcji.
+Elementy nowej infrastruktury to interfejs graficzny, tekstowy i głosowy z mikrofonem do wydawania komend, oraz głośnikiem do informowania kuriera przy odbieraniu zapakowanych produktów do klienta.
 
 ### 1.3 Korzyści
 
@@ -97,18 +98,22 @@ System operacyjny dostarcza informacje w postaci usrtandaryzowane do różnych A
 
 ### 2.1 Potrzeba
 
+Ogranicznie kosztów reklamacji
+
+### 2.2 Rozwiązanie
+
 Automatyzacja procesów kontaktu z klientem poprzez infolinię głosową, chat na stronie www
-Przyjmowanie reklamacji po zwrtoach dostarczonych przez klientów.
+Przyjmowanie reklamacji po zwrotach od klientów dostarczonych przez kurierów.
 
 
-### 2.2 Wdrożenie
+### 2.3 Wdrożenie
 
 System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitorem, mikrofonem i głośnikiem.
 + Uruchamiamy z kartą SD z pobranym od nas systemem
 + Po kilku sekundach mamy dostęp do konsoli, logujemy się jako administrator
 + Wpisujemy w konsoli zadania jakie mają być realizowane
 
-### 2.3 Monitorowanie
+### 2.4 Monitorowanie
 
 System operacyjny dostarcza informacje w postaci usrtandaryzowane do różnych API zewnętrznych systemów
 
