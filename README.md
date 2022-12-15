@@ -5,15 +5,19 @@
 
 Oferujemy rozwiązanie dla Software House-ów i developerów no-code:
 
-+ #pologOS - samozarządzalny system operacyjny do produkcji oprogramowania w czasie rzeczywistym na podstawie kilku zdań opisu w języku naturalnym
 
-PologOS to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje za pomocą kilku zdań opisu w języku naturalnym, bez wiedzy technicznej. 
+Czym jest PologOS?
 
-Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rzeczywistym, co daje poniższe korzyści:
++ to system operacyjny do tworzenia oprogramowania w czasie rzeczywistym na podstawie kilku zdań opisu w języku naturalnym
+
++ to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje za pomocą kilku zdań opisu w języku naturalnym. 
+
+
+Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rzeczywistym, co umożliwia:
 
 + wytwarzanie oprogramowania w ciągu minut a nie dni czy miesięcy
 
-+ szybka reakcja na potrzeby rynku, klientów i organizacji
++ szybkią reakcję na dynamicznym rynku zaawansowanych technologii
 
 
 Oferta jest tak innowacyjna, że obecnie żadna firma na świecie nie oferuje podobnego narzędzia, więc tylko Ty i Twoja organizacja będziecie mieli dostęp do unikalnych korzyści:
