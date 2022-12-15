@@ -20,7 +20,7 @@ Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rze
 + szybkią reakcję na dynamicznym rynku zaawansowanych technologii
 
 
-Oferta jest tak innowacyjna, że obecnie żadna firma na świecie nie oferuje podobnego narzędzia, więc tylko Ty i Twoja organizacja będziecie mieli dostęp do unikalnych korzyści:
+Oferta jest tak innowacyjna, że obecnie żadna firma na świecie nie oferuje podobnego narzędzia, więc tylko Ty i Twoja organizacja będziecie mieli dostęp do unikalnych korzyści i unikalnej przewagi konkurencyjnej:
 
 
 1. Szybkie i łatwe tworzenie aplikacji na podstawie kilku zdań opisu oczekiwanych funkcji i wyglądu aplikacji
