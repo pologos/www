@@ -147,3 +147,64 @@ System operacyjny instalujemy na lokalnym serwerze, wirtualizacji proxmox
 System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
 
 
+# EN Investors
+
+
+What investors want to know
+
+
+## Why are you competent for this project?
+ 
+We have a big experience with many technical projects such as Currency online, BPM, Medical application, Recruitment application and more similar big bussiness projects. 
+Most of them have many elements that require connection between different services and devices.
+ 
+
+## Why this project is needed by the people?
+ 
+Although the concepts of Industrial 4.0, 5G and smart solutions are ongoing trend, there are currently no tools that make it possible to develop these types of solutions quickly and efficiently. We have spoken with a wide range of experts and those who are seeking for automation solutions.
+
+According to them, both sites have numerous issues: the client complains that the process is taking too long and is too expensive, while other specialist claims that the integration of various devices takes a very long time and is another factor in the high cost. 
+
+Clients' inability to control automation is another issue (they need specialists to make changes).
+
+
+
+## What is main different in this project?
+ 
+Making complex robots was the inspiration behind this project. However, the state of technology today makes it impossible to produce complex robots in a reasonable time. Lack of tools is the cause of that condition. Therefore, we developed a tool that simplifies the connection and processing of many devices and services, which is at the basis of complicated smart systems and robotic solutions.
+ 
+
+
+## What is the idea over (ro)bots or SaaS ?
+
+We are not inspired by existing solutions; we just create what our consumers require the most. 
+SaaS cannot connect to physical devices without a bridge,
+Robots cannot do much on their own. 
+
+We are also agitated by the installation of additional devices for IoT and Robots while lots of data in CCTV surveillance and alarm systems go unused for the majority of the day.
+
+
+## What is necessary to make this project successful?  
+ 
+Community is the key. 
+
+This project provides a solution for many people, but it also offers an opportunity for many more. 
+
+We offer complex logic for tons of sensors to provide most efficiency way to build smart city based on one operation system.
+
+
+Each application, library, adapter, robot, and sensor created with compatibility for this system can be made by a third party, and we can help by selling them through marketplace.
+
+This project has a great potential for growth if the community decides to use it or make money from it. Each hour spent working on the application for this project serves to automate the process for everyone who already owns this product.
+
+
+## What are the chances that this project will succeed?  
+ 
+People need a solution to manage all of this and make it simpler for them to adapt and expand their technological stack. The demand for new technology is high, as is the demand for robotics and smart solutions. 
+
+We are aware of the logistical issues, the rising costs of many dependent elements, and the current global financial crisis. 
+Moreover, just 50% of the world's population requires such a solution. 
+
+Another risk is entering the market too soon and missing out on the potential 
+
+
