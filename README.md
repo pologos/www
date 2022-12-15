@@ -30,10 +30,10 @@ Oferta jest tak innowacyjna, że obecnie **żadna firma na świecie** nie oferuj
 
 Nasz interfejs tekstowym jest jeszcze w fazie rozwoju, ale już dziś możesz rezerwować dostęp, zyskując też bezpłatne **dożywotnie aktualizacje**.
 
-+ Cena dostępu w modelu SaaS to 50EUR/msc przy płatności za rok z góry
++ Cena dostępu w modelu SaaS to *50EUR/msc przy płatności za rok z góry
 + Cena dostępu dożywotnio - lifetime to 900EUR jednorazowo.
 
-*Koszt dostępu będzie wzrastał po kolejnych aktualizacjach wnoszących poprawki i nowe funkcjonalności.
+*koszt dostępu będzie wzrastał po kolejnych aktualizacjach wnoszących poprawki i nowe funkcjonalności.
 
 
 Ta oferta jest dostępna tylko **dla pierwszych 100 klientów**, którzy skorzystają z promocji do końca stycznia 2023. Po tym czasie **oferta lifetime** nie będzie już nigdy dostępna, pozostanie jedynie licencja z opłatą miesięczną w cenie 90EUR/msc, dlatego warto skorzystać z możliwości rezerwacji licencji już dziś.
