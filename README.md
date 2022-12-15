@@ -3,7 +3,9 @@
 
 [DIALOGWARE](https://www.dialogware.com/) to tylko część całego ekosystemu [#text2software](http://text.to.software)
 
-Na 2 kwartał 2023 roku przygotowujemy system operacyjny o roboczej nazwie #pologOS
+Oferujemy rozwiązanie dla Software House-ów i developerów no-code:
+
++ #pologOS - system operacyjny, samozarządzalny system operacyjny do produkcji oprogramowania w ciągu sekund na podstawie kilku zdań opisu w języku naturalnym
 
 
 PologOS to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje za pomocą kilku zdań opisu w języku naturalnym, bez wiedzy technicznej. 
