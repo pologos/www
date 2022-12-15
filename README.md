@@ -74,6 +74,8 @@ System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitor
 + Należy napisać jakie dane mają być pobierane i skąd oraz w jaki sposób mają być przetwarzane.
 + Jaki interfejs chcemy używać do wybranych interakcji
 
+Na każdym etapie poloSHELL umożliwia podsumowanie aktualnego etapu oraz proponuje kolejne kroki.
+
 Do definiowania oprogramowania można wykorzystać tryb chat-u lub dokumentacji (SRS):
 
 1. W trybie chatu AI odpytuje o istotne detale, przed uruchomieniem oprogramowania.
