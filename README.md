@@ -5,8 +5,7 @@
 
 Oferujemy rozwiązanie dla Software House-ów i developerów no-code:
 
-+ #pologOS - samozarządzalny system operacyjny do produkcji oprogramowania w ciągu sekund na podstawie kilku zdań opisu w języku naturalnym
-
++ #pologOS - samozarządzalny system operacyjny do produkcji oprogramowania w czasie rzeczywistym na podstawie kilku zdań opisu w języku naturalnym
 
 PologOS to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje za pomocą kilku zdań opisu w języku naturalnym, bez wiedzy technicznej. 
 
