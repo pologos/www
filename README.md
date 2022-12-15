@@ -89,7 +89,7 @@ Możliwe sa też tryby autodiagnostyki, gdzie wszystkie zewnętrzne API, urzadze
 
 #### 1.5 Monitorowanie
 
-System operacyjny dostarcza informacje w postaci usrtandaryzowane do różnych API zewnętrznych systemów
+System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
 
 
 
@@ -115,5 +115,35 @@ System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitor
 
 ### 2.4 Monitorowanie
 
-System operacyjny dostarcza informacje w postaci usrtandaryzowane do różnych API zewnętrznych systemów
+System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
+
+
+
+
+
+
+## 3. Wdrożenie w Software House
+
+
+### 2.1 Potrzeba
+
+Ogranicznie kosztów monitorowania aplikacji w sieci lokalnej 
+
+### 2.2 Rozwiązanie
+
+Automatyzacja procesów poprzez monitoring usług na wielu maszynach.
+Interfejs graficzny dostepny poprzez lokalnego hosta http://localhost:8081
+Wysyłanie powiadomienie SMS do administratora przy incydentach
+
+### 2.3 Wdrożenie
+
+System operacyjny instalujemy na lokalnym serwerze, wirtualizacji proxmox
++ Uruchamiamy installatora z pobranym od nas systemem w formacie ISO
++ Po kilku sekundach mamy dostęp do konsoli, logujemy się jako administrator
++ Wpisujemy w konsoli zadania jakie mają być realizowane
+
+### 2.4 Monitorowanie
+
+System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
+
 
