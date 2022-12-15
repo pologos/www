@@ -125,24 +125,24 @@ System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych AP
 ## 3. Wdrożenie w Software House
 
 
-### 2.1 Potrzeba
+### 3.1 Potrzeba
 
 Ogranicznie kosztów monitorowania aplikacji w sieci lokalnej 
 
-### 2.2 Rozwiązanie
+### 3.2 Rozwiązanie
 
 Automatyzacja procesów poprzez monitoring usług na wielu maszynach.
 Interfejs graficzny dostepny poprzez lokalnego hosta http://localhost:8081
 Wysyłanie powiadomienie SMS do administratora przy incydentach
 
-### 2.3 Wdrożenie
+### 3.3 Wdrożenie
 
 System operacyjny instalujemy na lokalnym serwerze, wirtualizacji proxmox
 + Uruchamiamy installatora z pobranym od nas systemem w formacie ISO
 + Po kilku sekundach mamy dostęp do konsoli, logujemy się jako administrator
 + Wpisujemy w konsoli zadania jakie mają być realizowane
 
-### 2.4 Monitorowanie
+### 3.4 Monitorowanie
 
 System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
 
