@@ -6,9 +6,17 @@
 Na 2 kwartał 2023 roku przygotowujemy system operacyjny o roboczej nazwie #pologOS
 
 
-PologOS to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje za pomocą kilku zdań opisu w języku naturalnym, bez wiedzy technicznej. Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rzeczywistym, dzięki czemu można wytwarzać oprogramowanie w ciągu minut a nie dni, tygodni, miesięcy i szybko reagować na potrzeby rynku, klientów i organizacji.
+PologOS to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje za pomocą kilku zdań opisu w języku naturalnym, bez wiedzy technicznej. 
+
+Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rzeczywistym, co daje poniższe korzyści:
+
++ wytwarzanie oprogramowania w ciągu minut a nie dni czy miesięcy
+
++ szybka reakcja na potrzeby rynku, klientów i organizacji
+
 
 Oferta jest tak innowacyjna, że obecnie żadna firma na świecie nie oferuje podobnego narzędzia, więc tylko Ty i Twoja organizacja będziecie mieli dostęp do unikalnych korzyści:
+
 
 1. Szybkie i łatwe tworzenie aplikacji na podstawie kilku zdań opisu oczekiwanych funkcji i wyglądu aplikacji
 
