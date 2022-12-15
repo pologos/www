@@ -2,10 +2,11 @@
 
 
 [DIALOGWARE](https://www.dialogware.com/) to tylko część całego ekosystemu [#text2software](http://text.to.software)
-Przygotowujemy system operacyjny o roboczej nazwie #pologOS
+
+Na 2 kwartał 2023 roku przygotowujemy system operacyjny o roboczej nazwie #pologOS
 
 
-PologOS jest rozwiązaniem dla nie-programistów, którzy chcą szybko tworzyć aplikacje za pomocą kilku zdań w języku naturalnym, bez wiedzy technicznej. Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rzeczywistym, dzięki czemu możesz szybko reagować na potrzeby Twoich klientów.
+PologOS to rozwiązanie dla nie-programistów, którzy chcą szybko tworzyć aplikacje za pomocą kilku zdań w języku naturalnym, bez wiedzy technicznej. Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rzeczywistym, dzięki czemu możesz szybko reagować na potrzeby Twoich klientów.
 
 Oferta jest tak innowacyjna, że obecnie żadna firma na świecie nie oferuje podobnego narzędzia, więc tylko Ty i Twoja organizacja będziecie mieli dostęp do unikalnych korzyści:
 
