@@ -10,7 +10,7 @@ Czym jest PologOS?
 
 + to system operacyjny do tworzenia oprogramowania w czasie rzeczywistym na podstawie opisu w języku naturalnym
 
-+ to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje za pomocą kilku zdań opisu w języku naturalnym. 
++ to rozwiązanie dla nie-programistów, którzy chcieliby tworzyć aplikacje bez potrzeby uczenia się języków programowania
 
 
 Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rzeczywistym, co umożliwia:
