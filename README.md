@@ -18,7 +18,7 @@ Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rze
 
 + wytwarzanie oprogramowania w ciągu minut a nie dni czy miesięcy
 
-+ szybkią reakcję na dynamicznym rynku zaawansowanych technologii
++ szybką reakcję na dynamicznym rynku zaawansowanych technologii
 
 
 Oferta jest tak innowacyjna, że obecnie żadna firma na świecie nie oferuje podobnego narzędzia, więc tylko Ty i Twoja organizacja będziecie mieli dostęp do unikalnych korzyści i unikalnej przewagi konkurencyjnej:
