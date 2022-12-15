@@ -44,28 +44,29 @@ Zapraszam do kontaktu.
 
 
 
-## przykłady użycia rozwiązania text-to-software opartego o PologOS
+# Przykłady użycia
 
-Wdrożenie na produkcji infrastruktury IoT do automatyzacji wydawania i przyjmowania przesyłek z zewnątrz.
+Przykłady użycia rozwiązania text-to-software opartego o PologOS.
 
-### Cel
 
-celem jest zastąpienia osoby obsługującej dystrubujcę w fabryce na nocnej zmianie, umożliwiajac dostęp do fabryki z zewnątrz 24h dobę
+## 1. Wdrożenie na produkcji
 
-### Korzyść: 
+### 1.1 Potrzeba
+
+zastąpienia osoby obsługującej dystrubujcę w fabryce na nocnej zmianie, umożliwiajac dostęp do fabryki z zewnątrz 24h dobę
+
+
+### 1.2 Rozwiązanie
+
+Automatyzacja procesów na produkcji, poprzez interfejs graficzny, tekstowy i głosowy z mikrofonem do wydawania komend, oraz głośnikiem do informowania kuriera przy odbieraniu zapakowanych produktów do klienta.
+
+### 1.3 Korzyści
 
 + redukcja czasu pracy i kosztów z tym związanych
 + monitorowanie i integracja obsługi kurierów z zewnątrz
 + zwiększenie wydajności fabryki poprzez przeniesienie obsługi dotychczas ograniczonych przez obecność człowieka na tym etapie
 
-
-### Przykład IoT
-
-#### 1. Potrzeba
-
-Klient potrzebuje zautomatyzować procesy na produkcji, potrzebna jest interfejs graficzny, tekstowy i głosowy z mikrofonem do wydawania komend, oraz głośnikiem do informowania kuriera przy odbieraniu zapakowanych produktów do klienta.
-
-#### 2. Wdrożenie
+### 1.4 Wdrożenie
 
 System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitorem, mikrofonem i głośnikiem.
 + Uruchamiamy z kartą SD z pobranym od nas systemem
@@ -85,8 +86,29 @@ Do definiowania oprogramowania można wykorzystać tryb chat-u lub dokumentacji 
 W każdym trybie jest możliwa wielokrtona iteracja z testowaniem rezultatu w całości lub w części, np sam interfejs użytkownika.
 Możliwe sa też tryby autodiagnostyki, gdzie wszystkie zewnętrzne API, urzadzenia są testowane.
 
-#### 3. Monitorowanie
+#### 1.5 Monitorowanie
 
 System operacyjny dostarcza informacje w postaci usrtandaryzowane do różnych API zewnętrznych systemów
 
+
+
+## 2. Wdrożenie w ecommerce
+
+
+### 2.1 Potrzeba
+
+Automatyzacja procesów kontaktu z klientem poprzez infolinię głosową, chat na stronie www
+Przyjmowanie reklamacji po zwrtoach dostarczonych przez klientów.
+
+
+### 2.2 Wdrożenie
+
+System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitorem, mikrofonem i głośnikiem.
++ Uruchamiamy z kartą SD z pobranym od nas systemem
++ Po kilku sekundach mamy dostęp do konsoli, logujemy się jako administrator
++ Wpisujemy w konsoli zadania jakie mają być realizowane
+
+### 2.3 Monitorowanie
+
+System operacyjny dostarcza informacje w postaci usrtandaryzowane do różnych API zewnętrznych systemów
 
