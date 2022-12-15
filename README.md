@@ -4,10 +4,8 @@
 PologOS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby swoich Klientów. System automatycznie tworzy aplikacje w czasie rzeczywistym za pomocą kilku zdań w języku naturalnym, bez wiedzy technicznej.
 
 
-+ rozwiązanie dedykujemy dla Software House-ów i developerów no-code.
+Rozwiązanie PologOS dedykujemy dla Software House-ów i developerów no-code:
 
-
-Czym jest PologOS?
 
 + to system operacyjny do tworzenia oprogramowania w czasie rzeczywistym na podstawie opisu w języku naturalnym
 
