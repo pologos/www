@@ -40,5 +40,46 @@ Ta oferta jest dostępna tylko **dla pierwszych 100 klientów**, którzy skorzys
 
 Zapraszam do kontaktu.
 
-
 [Tom Sapletta](https://www.linkedin.com/in/tom-sapletta-com/)
+
+
+
+## przykłady użycia rozwiązania text-to-software opartego o PologOS
+
+Wdrożenie na produkcji infrastruktury IoT do automatyzacji wydawania i przyjmowania przesyłek z zewnątrz.
+
+### Cel
+
+celem jest zastąpienia osoby obsługującej dystrubujcę w fabryce na nocnej zmianie, umożliwiajac dostęp do fabryki z zewnątrz 24h dobę
+
+### Korzyść: 
+
++ redukcja czasu pracy i kosztów z tym związanych
++ monitorowanie i integracja obsługi kurierów z zewnątrz
++ zwiększenie wydajności fabryki poprzez przeniesienie obsługi dotychczas ograniczonych przez obecność człowieka na tym etapie
+
+
+### Przykład IoT
+
+#### 1. Potrzeba
+
+Klient potrzebuje zautomatyzować procesy na produkcji, potrzebna jest interfejs graficzny, tekstowy i głosowy z mikrofonem do wydawania komend, oraz głośnikiem do informowania kuriera przy odbieraniu zapakowanych produktów do klienta.
+
+#### 2. Wdrożenie
+
+System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitorem, mikrofonem i głośnikiem.
+Uruchamiamy z kartą SD z pobranym od nas systemem
+Po kilku sekundach mamy dostęp do konsoli, logujemy się jako administrator
+Wpisujemy w konsoli zadania jakie mają  być realizowane, jakie dane mają być pobierane i skąd, w jaki sposób mają być przetwarzane.
+Jaki interfejs chcemy używać do wybranych interakcji
+Do definiowania oprogramowania można wykorzystać tryb chatu lub dokumentacji (SRS)
+W trybie chatu AI odpytuje o istotne detale, przed uruchomieniem oprogramowania.
+W trybie dokumentacji najpierw dostarzamy dokument, AI go analizuje rtłumaczy na tekst uruchamia i pyta czy aplikacja spełnia oczekiwania.
+W każdym trybie jest możliwa wielokrtona iteracja z testowaniem rezultatu w całości lub w części, np sam interfejs użytkownika.
+Możliwe sa też tryby autodiagnostyki, gdzie wszystkie zewnętrzne API, urzadzenia są testowane.
+
+#### 3. Monitorowanie
+
+System operacyjny dostarcza informacje w postaci usrtandaryzowane do różnych API zewnętrznych systemów
+
+
