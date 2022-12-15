@@ -23,11 +23,12 @@ Sztuczna inteligencja zarządza procesem wytwarzania oprogramowania w czasie rze
 Oferta jest tak innowacyjna, że obecnie żadna firma na świecie nie oferuje podobnego narzędzia, więc tylko Ty i Twoja organizacja będziecie mieli dostęp do unikalnych korzyści i unikalnej przewagi konkurencyjnej:
 
 
-1. Szybkie i łatwe tworzenie aplikacji na podstawie kilku zdań opisu oczekiwanych funkcji i wyglądu aplikacji
+1. Dostarczanie oprogramowania w czasie rzeczywistym 
 
-2. Automatyczne uruchamianie aplikacji w czasie rzeczywistym
+2. Uruchamianie setek aplikacji dziennie w ramach prywatnego marketplace-u
 
-3. Na jednym systemie można testować i uruchamiać setki aplikacji
+3. Tworzenie stron www, wizualnych interfejsów aplikacji, mikrousług na podstawie krótkiego opisu
+
 
 Nasz system operacyjny z interfejsem tekstowym jest jeszcze w fazie rozwoju, ale już dziś możesz rezerwować licencję, zyskując też bezpłatne dożywotnie aktualizacje.
 
