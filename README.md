@@ -1,8 +1,6 @@
 # www.pologos.com
 
 
-[DIALOGWARE](https://www.dialogware.com/) to tylko część całego ekosystemu [#text2software](http://text.to.software)
-
 PologOS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby swoich Klientów. System automatycznie tworzy aplikacje w czasie rzeczywistym za pomocą kilku zdań w języku naturalnym, bez wiedzy technicznej.
 
 
