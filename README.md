@@ -36,7 +36,7 @@ Nasz interfejs tekstowym jest jeszcze w fazie rozwoju, ale już dziś możesz re
 *koszt dostępu będzie wzrastał po kolejnych aktualizacjach wnoszących poprawki i nowe funkcjonalności.
 
 
-Ta oferta jest dostępna tylko **dla pierwszych 100 klientów**, którzy skorzystają z promocji do końca marca 2023. Po tym czasie **oferta lifetime** nie będzie już nigdy dostępna, pozostanie jedynie model SaaS z opłatą miesięczną w cenie 90EUR/msc, dlatego warto skorzystać z możliwości rezerwacji już dziś.
+Ta oferta jest dostępna tylko **dla pierwszych 100 klientów**, którzy skorzystają z promocji **do końca marca 2023**. Po tym czasie **oferta lifetime** nie będzie już nigdy dostępna, pozostanie jedynie model SaaS z opłatą miesięczną w cenie 90EUR/msc, dlatego warto skorzystać z możliwości rezerwacji już dziś.
 
 Zapraszam do kontaktu.
 
@@ -118,6 +118,10 @@ System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitor
 ### 2.4 Monitorowanie
 
 System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
+
+---
+
+[edit](https://github.com/pologos/www/edit/main/README.md)
 
 
 
