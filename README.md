@@ -3,7 +3,7 @@ Istotne z punktu widzenia kontroli jest oprogramowanie, które sztuczna intelige
 Żadna firma na świecie nie oferuje takiego rozwiązania, tutaj prezentujemy wyjątek...
 
 
-# [Operacyjny System pologOS - oparty o Sztuczną Inteligencję, tworzący oprogramowanie w czasie rzeczywistym](www.pologos.com)
+# [Operacyjny System pologOS - oparty o Sztuczną Inteligencję, tworzący oprogramowanie w czasie rzeczywistym](http://www.pologos.com)
 
 
 PologOS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby swoich Klientów. 
