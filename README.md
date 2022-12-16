@@ -2,7 +2,9 @@ Aktualnie na rynku dostępne rozwiązania pozwalają na uzyskanie rozwiązań **
 Istotne z punktu widzenia kontroli jest oprogramowanie, które sztuczna inteligencja powinna najpierw napisać, uruchomić, przetestować i zintegrować z już istniejącym systemem wedle potrzeb człowieka.
 Żadna firma na świecie nie oferuje takiego rozwiązania, tutaj prezentujemy wyjątek...
 
+
 # [Operacyjny System pologOS - oparty o Sztuczną Inteligencję, tworzący oprogramowanie w czasie rzeczywistym](www.pologos.com)
+
 
 PologOS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby swoich Klientów. 
 System automatycznie **tworzy aplikacje w czasie rzeczywistym** za pomocą kilku zdań w języku naturalnym, bez potrzeby znajomości języków programowania.
@@ -122,11 +124,6 @@ System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitor
 
 System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
 
----
-
-[edit](https://github.com/pologos/www/edit/main/README.md)
-
-
 
 
 
@@ -215,5 +212,10 @@ We are aware of the logistical issues, the rising costs of many dependent elemen
 Moreover, just 50% of the world's population requires such a solution. 
 
 Another risk is entering the market too soon and missing out on the potential 
+
+
+---
+
+[edit](https://github.com/pologos/www/edit/main/README.md)
 
 
