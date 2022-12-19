@@ -49,7 +49,7 @@ Zapraszam do kontaktu.
 
 Poszukuję entuzjastów zainteresowanych AUTOMATYZACJĄ od pojedynczych procesów po całą obsługę klienta. Oferuję platformę w przedsprzedaży, która tworzy aplikacje w czasie rzeczywistym za pomocą kilku zdań w języku naturalnym, bez potrzeby znajomości języków programowania.
 
-![pologOS](pologos.png)
+![pologOS](pologos.jpeg)
 
 # Przykłady użycia
 
