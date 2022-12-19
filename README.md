@@ -215,6 +215,11 @@ Moreover, just 50% of the world's population requires such a solution.
 Another risk is entering the market too soon and missing out on the potential 
 
 
+### Documentation
+
++ [How I do my Computing](https://stallman.org/stallman-computing.html)
+
+
 ---
 
 [edit](https://github.com/pologos/www/edit/main/README.md)
