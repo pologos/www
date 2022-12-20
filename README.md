@@ -46,7 +46,7 @@ Przy zespole trzyosobowym oszczędności z używania takiego rozwiązania będą
 
 https://www.youtube.com/watch?v=rthSm17nu8w "Dialogware Review Q4 2022"
 
-[![Dialogware Review Q4 2022](pologos-horiz.png)](https://www.youtube.com/watch?v=rthSm17nu8w "Dialogware Review Q4 2022")
+[![Dialogware Review Q4 2022](https://img.youtube.com/vi/rthSm17nu8w/0.jpg)](https://www.youtube.com/watch?v=rthSm17nu8w "Dialogware Review Q4 2022")
 
 
 # [Operacyjny System PoLoGoS - tworzący oprogramowanie w czasie rzeczywistym](http://www.pologos.com)
