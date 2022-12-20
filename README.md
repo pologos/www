@@ -15,6 +15,10 @@ Sposoby tworzenia aplikacji z systemem pologOS:
 + za pomocą interfejsu głosowego pozwala na tworzenie aplikacji w bardziej naturalny sposób. 
 + za pomocą języka naturalnego zwiększa dostępność aplikacji dla osób z różnych krajów.
 
+## Oszczędności 3 osobowego zespołu mogą sięgać kilkaset EUR dziennie
+
+Przy zespole trzyosobowym oszczędności z używania takiego rozwiązania będą zależały od wielu czynników, takich jak ilość aplikacji tworzonych codziennie, doświadczenie programistów i ich stawki godzinowe. Niemniej jednak, przyjmując, że zespół tworzy **10 aplikacji** dziennie i ich stawki godzinowe wynoszą **25 EUR za godzinę**, oszczędność z używania takiego rozwiązania wynosić będzie około **750 EUR dziennie**.
+
 
 # [Operacyjny System pologOS - tworzący oprogramowanie w czasie rzeczywistym](http://www.pologos.com)
 
