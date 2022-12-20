@@ -1,6 +1,5 @@
-Aktualnie na rynku dostępne rozwiązania pozwalają na uzyskanie rozwiązań **text-to-image** czy **text-to-video**, jednak to dopiero początek.
-Istotne z punktu widzenia kontroli jest oprogramowanie, które sztuczna inteligencja powinna najpierw napisać, uruchomić, przetestować i zintegrować z już istniejącym systemem wedle potrzeb człowieka.
-Żadna firma na świecie nie oferuje takiego rozwiązania, tutaj prezentujemy wyjątek...
+Aktualnie na rynku są dostępne **text-to-image**, **text-to-video** i **text-to-code**, kiedy będą dostępne rozwiązania typu **text-to-sofwtare**?
+AI tworząca usługi SaaS musi napisać, uruchomić, przetestować i zintegrować się z już istniejącym systemem, dziś brakuje takiego rozwiązania, tutaj prezentujemy wyjątek...
 
 [![PoLoGoS](pologos-horiz.png)](http://www.pologos.com)
 
