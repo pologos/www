@@ -9,7 +9,7 @@ Jakie są korzyści z systemu operacyjnego, który generuje aplikacje na podstaw
  
 + Zmniejszenie kosztów produkcji poprzez wyeliminowanie potrzeby tworzenia i utrzymywania dużych zespołów programistów. 
 
-Możliwość tworzenia aplikacji:
+Sposoby tworzenia aplikacji z systemem pologOS:
 
 + na podstawie tekstowego opisu daje większą swobodę tworzenia aplikacji. 
 + za pomocą interfejsu głosowego pozwala na tworzenie aplikacji w bardziej naturalny sposób. 
