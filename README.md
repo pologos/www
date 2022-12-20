@@ -21,9 +21,7 @@ Sposoby tworzenia aplikacji z systemem **PoLoGoS**:
 Przy zespole trzyosobowym oszczędności z używania takiego rozwiązania będą zależały od wielu czynników, takich jak ilość aplikacji tworzonych codziennie, doświadczenie programistów i ich stawki godzinowe. Niemniej jednak, przyjmując, że zespół tworzy **10 aplikacji** dziennie i ich stawki godzinowe wynoszą **25 EUR za godzinę**, oszczędność z używania takiego rozwiązania wynosić będzie około **750 EUR dziennie**.
 
 
- <iframe width="420" height="315"
-src="https://youtu.be/rthSm17nu8w?autoplay=1&mute=1">
-</iframe> 
+<iframe width="420" height="315" src="https://youtu.be/rthSm17nu8w?autoplay=1&mute=1"></iframe> 
 
 # [Operacyjny System PoLoGoS - tworzący oprogramowanie w czasie rzeczywistym](http://www.pologos.com)
 
