@@ -24,7 +24,7 @@ Przy zespole trzyosobowym oszczędności z używania takiego rozwiązania będą
 # [Operacyjny System PoLoGoS - tworzący oprogramowanie w czasie rzeczywistym](http://www.pologos.com)
 
 
-PologOS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby swoich Klientów. 
+PoLoGoS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby swoich Klientów. 
 System automatycznie **tworzy aplikacje w czasie rzeczywistym** za pomocą kilku zdań w języku naturalnym, bez potrzeby znajomości języków programowania.
 
 
@@ -69,7 +69,9 @@ Zapraszam do kontaktu.
 
 Poszukuję entuzjastów zainteresowanych AUTOMATYZACJĄ od pojedynczych procesów po całą obsługę klienta. Oferuję platformę w przedsprzedaży, która tworzy aplikacje w czasie rzeczywistym za pomocą kilku zdań w języku naturalnym, bez potrzeby znajomości języków programowania.
 
+
 ## Korzyści
+
 
 korzyści z używania platformy do generowania setek aplikacji dziennie w oparciu o sztuczną inteligencję:
 
@@ -93,7 +95,7 @@ korzyści z używania platformy do generowania setek aplikacji dziennie w oparci
 
 # Przykłady użycia
 
-Przykłady użycia rozwiązania text-to-software opartego o PologOS.
+Przykłady użycia rozwiązania text-to-software opartego o **PoLoGoS**.
 
 
 ## 1. Wdrożenie na produkcji
