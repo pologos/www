@@ -1,4 +1,4 @@
-Aktualnie na rynku są dostępne **text-to-image**, **text-to-video** i **text-to-code**, kiedy będą dostępne rozwiązania typu **text-to-sofwtare**?
+Aktualnie na rynku są dostępne **text-to-image**, **text-to-video** i **text-to-code**, kiedy będą dostępne rozwiązania typu **text-to-software**?
 AI tworząca usługi SaaS musi napisać, uruchomić, przetestować i zintegrować się z już istniejącym systemem, dziś brakuje takiego rozwiązania, tutaj prezentujemy wyjątek...
 
 [![PoLoGoS](pologos-horiz.png)](http://www.pologos.com)
