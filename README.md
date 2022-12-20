@@ -2,7 +2,7 @@ Aktualnie na rynku dostępne rozwiązania pozwalają na uzyskanie rozwiązań **
 Istotne z punktu widzenia kontroli jest oprogramowanie, które sztuczna inteligencja powinna najpierw napisać, uruchomić, przetestować i zintegrować z już istniejącym systemem wedle potrzeb człowieka.
 Żadna firma na świecie nie oferuje takiego rozwiązania, tutaj prezentujemy wyjątek...
 
-[![pologos](pologos-horiz.png)](http://www.pologos.com)
+[![PoLoGoS](pologos-horiz.png)](http://www.pologos.com)
 
 Jakie są korzyści z systemu operacyjnego, który generuje aplikacje na podstawie tekstowego opisu a nie kodu?
 
@@ -28,7 +28,7 @@ PologOS jest rozwiązaniem dla firm które chcą szybko reagować na potrzeby sw
 System automatycznie **tworzy aplikacje w czasie rzeczywistym** za pomocą kilku zdań w języku naturalnym, bez potrzeby znajomości języków programowania.
 
 
-Rozwiązanie **PologOS** dedykujemy dla Software House-ów i developerów no-code:
+Rozwiązanie **PoLoGoS** dedykujemy dla Software House-ów i developerów no-code:
 
 
 + to system operacyjny do tworzenia oprogramowania w czasie rzeczywistym **na podstawie opisu w języku naturalnym**
@@ -53,13 +53,13 @@ Oferta jest tak innowacyjna, że obecnie **żadna firma na świecie** nie oferuj
 
 Nasz interfejs tekstowym jest jeszcze w fazie rozwoju, ale już dziś możesz rezerwować dostęp, zyskując też bezpłatne **dożywotnie aktualizacje**.
 
-+ Cena dostępu w modelu SaaS to *50EUR/msc przy płatności za rok z góry
++ Cena dostępu w modelu SaaS to *25EUR/msc przy płatności za rok z góry
 + Cena dostępu dożywotnio - lifetime to 900EUR jednorazowo.
 
 *koszt dostępu będzie wzrastał po kolejnych aktualizacjach wnoszących poprawki i nowe funkcjonalności.
 
 
-Ta oferta jest dostępna tylko **dla pierwszych 100 klientów**, którzy skorzystają z promocji **do końca marca 2023**. Po tym czasie **oferta lifetime** nie będzie już nigdy dostępna, pozostanie jedynie model SaaS z opłatą miesięczną w cenie 90EUR/msc, dlatego warto skorzystać z możliwości rezerwacji już dziś.
+Ta oferta jest dostępna tylko **dla pierwszych 100 klientów**, którzy skorzystają z promocji **do końca marca 2023**. Po tym czasie **oferta lifetime** nie będzie już nigdy dostępna, pozostanie jedynie model SaaS z opłatą miesięczną w cenie 50EUR/msc, dlatego warto skorzystać z możliwości rezerwacji już dziś.
 
 Zapraszam do kontaktu.
 
