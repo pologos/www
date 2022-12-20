@@ -2,6 +2,7 @@ Aktualnie na rynku dostępne rozwiązania pozwalają na uzyskanie rozwiązań **
 Istotne z punktu widzenia kontroli jest oprogramowanie, które sztuczna inteligencja powinna najpierw napisać, uruchomić, przetestować i zintegrować z już istniejącym systemem wedle potrzeb człowieka.
 Żadna firma na świecie nie oferuje takiego rozwiązania, tutaj prezentujemy wyjątek...
 
+![pologos](pologos-horiz.png)
 
 Jakie są korzyści z systemu operacyjnego, który generuje aplikacje na podstawie tekstowego opisu a nie kodu?
 
