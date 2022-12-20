@@ -3,6 +3,19 @@ Istotne z punktu widzenia kontroli jest oprogramowanie, które sztuczna intelige
 Żadna firma na świecie nie oferuje takiego rozwiązania, tutaj prezentujemy wyjątek...
 
 
+Jakie są korzyści z systemu operacyjnego, który generuje aplikacje na podstawie tekstowego opisu a nie kodu?
+
++ Szybszy czas tworzenia aplikacji, ponieważ tworzenie aplikacji z zaledwie kilku zdań jest znacznie szybsze niż tworzenie go z kodu. 
+ 
++ Zmniejszenie kosztów produkcji poprzez wyeliminowanie potrzeby tworzenia i utrzymywania dużych zespołów programistów. 
+
+Możliwość tworzenia aplikacji:
+
++ na podstawie tekstowego opisu daje większą swobodę tworzenia aplikacji. 
++ za pomocą interfejsu głosowego pozwala na tworzenie aplikacji w bardziej naturalny sposób. 
++ za pomocą języka naturalnego zwiększa dostępność aplikacji dla osób z różnych krajów.
+
+
 # [Operacyjny System pologOS - tworzący oprogramowanie w czasie rzeczywistym](http://www.pologos.com)
 
 
