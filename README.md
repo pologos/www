@@ -44,7 +44,7 @@ korzyści z używania platformy do generowania setek aplikacji dziennie w oparci
 Przy zespole trzyosobowym oszczędności z używania takiego rozwiązania będą zależały od wielu czynników, takich jak ilość aplikacji tworzonych codziennie, doświadczenie programistów i ich stawki godzinowe. Niemniej jednak, przyjmując, że zespół tworzy **10 aplikacji** dziennie i ich stawki godzinowe wynoszą **25 EUR za godzinę**, oszczędność z używania takiego rozwiązania wynosić będzie około **750 EUR dziennie**.
 
 
-https://www.youtube.com/watch?v=rthSm17nu8w "Dialogware Review Q4 2022"
+["Dialogware Review Q4 2022"](https://www.youtube.com/watch?v=rthSm17nu8w)
 
 [![Dialogware Review Q4 2022](https://img.youtube.com/vi/rthSm17nu8w/0.jpg)](https://www.youtube.com/watch?v=rthSm17nu8w "Dialogware Review Q4 2022")
 
