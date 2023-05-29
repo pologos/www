@@ -106,6 +106,11 @@ W ostatnim przeglądzie projektu nieco mówiłem o systemie, zapraszam do obejrz
 Przykłady użycia rozwiązania text-to-software opartego o **PoLoGoS**.
 
 
+1. wersja darmowa testowa na apkę z reklamami, itp
+2. wersja płatna on premise na własnym serwerze
+3. wersja embedded na wbudowanym urządzeniu, np zoptymalizowanym do niskiego poboru energii i małego, np w formie asystenta w samochodzie
+
+
 ## 1. Wdrożenie na produkcji
 
 ### 1.1 Potrzeba
@@ -125,6 +130,7 @@ Elementy nowej infrastruktury to interfejs graficzny, tekstowy i głosowy z mikr
 + zwiększenie wydajności fabryki poprzez przeniesienie obsługi dotychczas ograniczonych przez obecność człowieka na tym etapie
 
 ### 1.4 Wdrożenie
+
 
 System operacyjny instalujemy na urządzeniu IoT typu RPI z klawiaturą, monitorem, mikrofonem i głośnikiem.
 + Uruchamiamy z kartą SD z pobranym od nas systemem
@@ -201,6 +207,15 @@ System operacyjny instalujemy na lokalnym serwerze, wirtualizacji proxmox
 ### 3.4 Monitorowanie
 
 System operacyjny dostarcza informacje w postaci ustandaryzowane do różnych API zewnętrznych systemów
+
+
+
+### 4. Wdrożenie w samochodach
+
+Wersja embedded na wbudowanym urządzeniu, np zoptymalizowanym do niskiego poboru energii i małego, np w formie asystenta w samochodzie z połączeniem do wewnętrznej instalacji na złącze OBD dzięki temu można też dopytać o parametry silnika w trakcie jazdy
+
+
+
 
 
 # EN Investors
